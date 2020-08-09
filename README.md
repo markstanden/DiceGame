@@ -5,4 +5,7 @@
 
 ----
 
+# cards.js
 
+- Was coding at the same time following Colt Steele's Javascript course, wrote a little scripts playing with cards as part of his course.
+- lots of playing and manipulating arrays
